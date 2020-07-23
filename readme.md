@@ -18,7 +18,7 @@ linux和mac下可在项目根目录下执行 `./install.sh` 快速搭建开发�
 
 **具体步骤如下：**
 
-1. 克隆代码库： `git clone https://github.com/zhoutaoo/SpringCloud.git`
+1. 克隆代码库： `git clone https://github.com/zuijiu997/SpringCloud-1.git`
 
 2. 安装公共库到本地仓库： 
 
